@@ -1,0 +1,15 @@
+---
+layout: post
+category : lessons
+tagline: "introduction and driver intialization"
+tags : [intro, sgx]
+---
+{% include JB/setup %}
+
+In this very first post, I will write about my expectation of this code tour series. Besides, I will start with a little dip of background about Intel SGX and Linux drivers.
+
+## Intel SGX
+
+## Linux Drivers
+
+## The Beginning of Life
